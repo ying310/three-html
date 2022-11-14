@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.addc3006.css",
+    "main.js": "/static/js/main.e0e1a60d.js",
+    "static/js/787.e7f32708.chunk.js": "/static/js/787.e7f32708.chunk.js",
+    "static/media/mouse.fbx": "/static/media/mouse.9293aeb828f6ee9b76a8.fbx",
+    "static/media/pbr.fbx": "/static/media/pbr.ff0b6e9d44fd7a919431.fbx",
+    "static/media/xBot.fbx": "/static/media/xBot.d3565d8f48704b5a6e6e.fbx",
+    "static/media/claire.fbx": "/static/media/claire.dcd144d66c0d9be47da2.fbx",
+    "static/media/Ty.fbx": "/static/media/Ty.dd8858dd54de8df23adc.fbx",
+    "static/media/shake.fbx": "/static/media/shake.dd4f30faf534ef36ab09.fbx",
+    "static/media/Capoeira.fbx": "/static/media/Capoeira.6c44e7a2e0be12217710.fbx",
+    "static/media/Jogging.fbx": "/static/media/Jogging.906bdd35a6d44b18c2e0.fbx",
+    "static/media/dn.png": "/static/media/dn.965e7e09b5276e2a7f90.png",
+    "static/media/Flair.fbx": "/static/media/Flair.32ec59b9bae3932a3ae0.fbx",
+    "static/media/lf.png": "/static/media/lf.80a5545d4d0c8b015e85.png",
+    "static/media/ft.png": "/static/media/ft.72d39eccbe21bf1e1ee1.png",
+    "static/media/bk.png": "/static/media/bk.ba06afa5405567f2ca3d.png",
+    "static/media/rt.png": "/static/media/rt.3c19c8067301933948d6.png",
+    "static/media/up.png": "/static/media/up.689e48b76f0d30c95756.png",
+    "static/media/123music.mp3": "/static/media/123music.835f2bb555f53e0bd738.mp3",
+    "index.html": "/index.html",
+    "main.addc3006.css.map": "/static/css/main.addc3006.css.map",
+    "main.e0e1a60d.js.map": "/static/js/main.e0e1a60d.js.map",
+    "787.e7f32708.chunk.js.map": "/static/js/787.e7f32708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addc3006.css",
+    "static/js/main.e0e1a60d.js"
+  ]
+}
